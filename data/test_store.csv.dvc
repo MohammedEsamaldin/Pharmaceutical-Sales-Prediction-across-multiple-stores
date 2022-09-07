@@ -1,0 +1,4 @@
+outs:
+- md5: aaebabd9fa4f46da3a8926c54b61b42d
+  size: 3219038
+  path: test_store.csv
